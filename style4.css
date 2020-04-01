@@ -175,8 +175,8 @@ text-align: center;
 
 
   video{
-    width: 100% !important;
-  height: auto !important;
+    width: 100% ;
+  height: auto;
   }
 
 }
@@ -231,8 +231,8 @@ text-align: center;
 
 
   video{
-    width: 100% !important;
-  height: auto !important;
+    width: 100% ;
+  height: auto ;
   }
 
 }
